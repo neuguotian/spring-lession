@@ -1,3 +1,3 @@
 # spring-lession
-geek time lession
+geek time lession.
 type sth here.
